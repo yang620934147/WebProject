@@ -1,0 +1,5 @@
+com\webapp\firsttask\serviceimpl\StudentServiceImpl.class
+com\webapp\firsttask\service\StudentServiceI.class
+com\webapp\firsttask\dao\StudentMapper.class
+com\webapp\firsttask\model\Student.class
+com\webapp\firsttask\controller\StudentServlet.class
